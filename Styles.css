@@ -1,0 +1,36 @@
+.nav_row{
+    gap: 11rem !important;
+}
+.first_section{
+    padding-top: 15rem;
+    padding-bottom: 15rem;
+    background-color: rgb(204, 246, 232);
+}
+.second_section{
+    background-color:rgb(165, 247, 220) ;
+    padding-top: 15rem;
+    padding-bottom: 15rem;
+}
+.card{
+    color:rgb(204, 246, 232);
+}
+.third_section{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.last_part{
+    background-color: black;
+}
+.fa-instagram{
+    color: darkmagenta;
+   
+}
+.fa-twitter{
+    color: rgb(29, 155, 240);
+}
+.fa-linkedin{
+    color: #0a66c2;
+}
+.fa-github{
+    color: white;
+}
